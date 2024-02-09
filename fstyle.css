@@ -1,0 +1,23 @@
+.TheoryHours{
+	background-color: #ccf!important;
+	font-weight: bold;
+}
+.LabHours{
+	background-color: #9cf!important;
+	font-weight: bold;
+}
+.ColumnOneDays{
+	background-color: silver!important;
+	font-weight: bold;
+}
+.TimetableContent{
+	background-color: #ffc!important;
+	color: grey; 
+	font-weight: bold;
+	cursor: pointer;
+}
+.TimetableContent:hover{
+	background-color: #cf3!important;
+	color: black;
+	font-weight: bold;
+}
